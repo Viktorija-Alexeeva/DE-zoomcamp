@@ -1,7 +1,5 @@
 #homework 1
 
-pgAdmin. 
-
 -- up to 1
 select count(*) as trips_num
 from public.green_taxi_data 
